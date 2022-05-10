@@ -12,3 +12,8 @@ class MergeRows:
                     outfile.write('\n\n')
                 else:
                     outfile.write(line)
+
+
+if __name__ == '__main__':
+    merge = MergeRows('Healthy Diets for People and the Planet.md')
+    merge.merge('Healthy Diets for People and the Planet.md')
