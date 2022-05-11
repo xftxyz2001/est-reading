@@ -22,7 +22,6 @@ considered （被认为是）
 consortium （财团）
 consumption （消费）
 contributed （做出了贡献）
-controlled （控制）
 conversation （谈话）
 converting （转换）
 correction （修正）
@@ -40,8 +39,6 @@ ecological （生态）
 ecologists （生态学家）
 ecosystems （生态系统）
 environmentally （环境）
-especially （特别是）
-eventually （最终）
 experiment （实验）
 explanation （解释）
 fast-growing （快速增长的）
@@ -66,7 +63,6 @@ impracticalities （导致）
 industrialized （工业化）
 inefficient （效率低下的）
 inevitable （不可避免的）
-information （信息）
 inhospitable （不适宜居住）
 integrated （集成）
 interested （感兴趣）
@@ -91,7 +87,6 @@ overcrowded （过度拥挤的）
 overfished （过度捕捞）
 overweight （超重）
 pediatrics （儿科）
-phosphorus （磷）
 piggybacks （寄生）
 plant-based （植物性）
 policymakers （政策制定者）
@@ -110,23 +105,14 @@ reproductive （生殖）
 requirement （要求）
 requirements （需求）
 researcher （研究员）
-researchers （研究人员）
 responsible （负责任的）
-restaurant （餐厅）
-restaurateurs （餐馆老板）
 restrictions （限制）
-scandinavian （斯堪的那维亚）
-scientists （科学家们）
 small-scale （小规模的）
 sustainability （可持续性）
 sustainable （可持续发展的）
-technology （技术）
-temperature （温度）
 threatening （威胁）
-traditional （传统的）
 ultra-processed （超）
 under-nourished （的营养）
 unpublished （未发表的）
 unsustainable （不可持续的）
 urbanization （城市化）
-westerners （西方人）
