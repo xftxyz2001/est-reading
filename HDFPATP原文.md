@@ -1,9 +1,9 @@
 # HEALTHY DIETS FOR PEOPLE AND THE PLANET
 
-The ideal diet should be **nutritious** without **threatening** natural resources. Researchers are trying to decide what’s best for countries from Kenya to Sweden. **By Gayathri Vaidyanathan**
+The ideal diet should be nutritious without threatening natural resources. Researchers are trying to decide what’s best for countries from Kenya to Sweden. **By Gayathri Vaidyanathan**
 
 ---
-A clutch of fishing villages dot the coast near Kilifi, north of Mombasa in Kenya. The waters are home to parrot fish, octopus and other edible **species**. But despite living on the shores, the children in the villages rarely eat seafood. Their staple meal is ugali, maize (corn) flour mixed with water, and most of their nutrition comes from plants. Almost half the kids here have **stunted** growth — twice the national **rate**.
+A clutch of fishing villages dot the coast near Kilifi, north of Mombasa in Kenya. The waters are home to parrot fish, octopus and other edible species. But despite living on the shores, the children in the villages rarely eat seafood. Their staple meal is ugali, maize (corn) flour mixed with water, and most of their nutrition comes from plants. Almost half the kids here have stunted growth — twice the national rate.
 
 In 2020, Lora Iannotti, a public-health researcher at Washington University in St. Louis, and her Kenyan colleagues asked people in the villages why the children weren’t eating seafood, even though all the parents fish for a living; studies show that fish and other animal-source foods can improve growth[1]. The parents said it made more financial sense for them to sell their catch than to eat it.
 
