@@ -116,3 +116,25 @@ under-nourished （的营养）
 unpublished （未发表的）
 unsustainable （不可持续的）
 urbanization （城市化）
+
+
+### 以上含有连词线的
+- animal-source （动物性）
+- climate-change （气候变化）
+- climate-friendly （气候友好型）
+- director-general （总干事）
+- fast-growing （快速增长的）
+- food-policy （粮食政策）
+- food-related （食品相关）
+- food-stamp （食品券的）
+- food-system （食物系统）
+- food-systems （食物系统）
+- free-range （自由放养的）
+- greenhouse-gas （温室气体）
+- low-income （低收入）
+- middle-income （中等收入）
+- model-based （基于模型的）
+- one-size-fits-all （放之四海而皆准的）
+- small-scale （小规模的）
+- ultra-processed （超）
+- under-nourished （的营养）
