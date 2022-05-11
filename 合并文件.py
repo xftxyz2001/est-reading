@@ -11,6 +11,6 @@ class MergeFiles:
 
 
 if __name__ == '__main__':
-    merge = MergeFiles('Summary-Healthy Diets for People and the Planet.md',
-                       'Vocabulary analysis-Healthy Diets for People and the Planet.md')
+    merge = MergeFiles('Summary-HDFPATP.md',
+                       'Vocabulary analysis-HDFPATP.md')
     merge.merge_files('merged.md')
